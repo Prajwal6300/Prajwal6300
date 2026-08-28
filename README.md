@@ -41,7 +41,7 @@ focus:
 mindset: "Engineer who treats AI models as products — grounded, tested, and deployed, not just prototyped."
 ```
 
-**Open To:** Generative AI Engineer roles · Backend / SDE roles · AI-Backend Hybrid roles · Full-time & Internship opportunities
+**Open To:** Generative AI Engineer roles · Backend / SDE roles · AI-Backend Hybrid roles · Full-time opportunities.
 
 ---
 
