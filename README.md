@@ -1,24 +1,295 @@
-# 💫 About Me:
-I'm currently working on Documind-RAG-Platform, a production-ready multi-document RAG system with semantic retrieval, reranking, and LLM-powered answers built with FastAPI and Docker. 🤝 I'm looking to collaborate on full-stack web apps and AI/LLM-powered tools, especially around RAG and document intelligence. 🙏 I'm looking for help with optimizing retrieval accuracy and scaling LLM-based platforms in production. 🌱 I'm currently learning LLM application development — retrieval, reranking, and evaluation pipelines — along with enterprise-grade test automation using Selenium, Pytest, and CI/CD tools. 💬 Ask me about MERN stack development, Selenium automation frameworks (POM, API testing, BrowserStack, Jenkins), or building RAG/LLM platforms. ⚡ Fun fact: I went from building an Amazon-style shopping site in PHP to building AI-powered document Q&A platforms 🚀                                            
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Prajwal%20Mansing%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%7C%20ML%20%7C%20Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Prajwal6300&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Prajwal6300&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prajwal6300&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Generative+AI+%26+ML+Engineer;RAG+Pipelines+%7C+LLMs+%7C+Prompt+Engineering;Software+Development+Engineer;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prajwal6300&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Kolhapur,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prajwal6300&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Prajwal6300)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-yadav63/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalyadav3954@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal6300)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prajwal6300&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Prajwal6300?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/Prajwal6300?style=for-the-badge&color=6d28d9&label=STARS&logo=github)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Prajwal6300&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```yaml
+name: "Prajwal Mansing Yadav"
+role: "Generative AI & Machine Learning Engineer | Software Development Engineer"
+education: "B.Tech, Computer Science & Engineering — D. Y. Patil College of Engineering, Kolhapur"
+current: "System / Software Engineer — AI & Automation @ Hari Om Techserve (Zanvar Group)"
+focus:
+  - Building end-to-end LLM applications & Retrieval-Augmented Generation (RAG) pipelines
+  - Designing production-grade REST APIs and backend microservices
+  - Integrating AI/Computer Vision models with ERP & PLC industrial systems
+  - Shipping full-stack products with clean architecture and CI/CD discipline
+mindset: "Engineer who treats AI models as products — grounded, tested, and deployed, not just prototyped."
+```
+
+**Open To:** Generative AI Engineer roles · Backend / SDE roles · AI-Backend Hybrid roles · Full-time & Internship opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=A78BFA)
+![C](https://img.shields.io/badge/C-14151a?style=flat-square&logo=c&logoColor=A78BFA)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-14151a?style=flat-square&logo=node.js&logoColor=A78BFA)
+![Express.js](https://img.shields.io/badge/Express.js-14151a?style=flat-square&logo=express&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-14151a?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-14151a?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-14151a?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
+![React Native](https://img.shields.io/badge/React%20Native-14151a?style=flat-square&logo=react&logoColor=A78BFA)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-14151a?style=flat-square&logo=mysql&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151a?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-14151a?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![SQLite](https://img.shields.io/badge/SQLite-14151a?style=flat-square&logo=sqlite&logoColor=A78BFA)
+![Supabase](https://img.shields.io/badge/Supabase-14151a?style=flat-square&logo=supabase&logoColor=A78BFA)
+
+**Cloud, DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=A78BFA)
+![GitHub](https://img.shields.io/badge/GitHub-14151a?style=flat-square&logo=github&logoColor=A78BFA)
+![Postman](https://img.shields.io/badge/Postman-14151a?style=flat-square&logo=postman&logoColor=A78BFA)
+![JIRA](https://img.shields.io/badge/JIRA-14151a?style=flat-square&logo=jira&logoColor=A78BFA)
+![VSCode](https://img.shields.io/badge/VS%20Code-14151a?style=flat-square&logo=visualstudiocode&logoColor=A78BFA)
+![ONNX](https://img.shields.io/badge/ONNX-14151a?style=flat-square&logo=onnx&logoColor=A78BFA)
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Generative AI & RAG** | ⭐⭐⭐⭐⭐ | Document chunking, dense embeddings, vector search, grounded response generation with hallucination guardrails |
+| **LLMs & Prompt Engineering** | ⭐⭐⭐⭐ | Prompt design, context grounding, Anthropic Claude API & MCP integration |
+| **Computer Vision** | ⭐⭐⭐⭐⭐ | YOLOv8, OpenCV, OCR, real-time object detection, bounding-box annotation |
+| **Model Deployment** | ⭐⭐⭐⭐ | ONNX inference optimization, latency reduction, production inference pipelines |
+| **Core ML/DL** | ⭐⭐⭐⭐ | PyTorch, TensorFlow, Scikit-learn, supervised/unsupervised learning, evaluation metrics |
+| **Backend for AI Systems** | ⭐⭐⭐⭐⭐ | REST API design, microservices, ERP/PLC integration for AI workflows |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🧠 Document Intelligence & RAG Chatbot — Backend + AI System</b></summary>
+<br/>
+
+Architected backend services and REST APIs powering a Retrieval-Augmented Generation chatbot — covering document ingestion, chunking, embedding generation, and grounded LLM response synthesis.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, LLMs, Vector Embeddings, REST APIs, Microservices |
+| **Scale** | Document ingestion & retrieval across 10+ documents |
+| **Performance** | 90% improvement in response relevance vs. baseline keyword search |
+| **Security** | Context-grounded generation with hallucination guardrails |
+| **Impact** | Modular microservice architecture (ingestion / retrieval / response generation) enabling horizontal scalability |
+| **Repository** | [View on GitHub](https://github.com/Prajwal6300) |
+
+Designed as independently deployable microservices, this system separates ingestion, vector retrieval, and generation layers — enabling the platform to scale each stage independently under load.
+
+</details>
+
+<details>
+<summary><b>🏭 AI Industrial Object Verification System</b></summary>
+<br/>
+
+Real-time inference service for industrial object detection and validation, integrated with machine control workflows.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, OpenCV, YOLO, ONNX |
+| **Scale** | Real-time detection across live industrial video feeds |
+| **Performance** | 90% detection accuracy at 100ms average latency; 85% inference-time reduction via ONNX |
+| **Security** | Rule-based classification with confidence thresholds |
+| **Impact** | 93% improvement in system uptime/reliability via RUN/STOP control-signal logic |
+| **Repository** | [View on GitHub](https://github.com/Prajwal6300) |
+
+Combines bounding-box annotation, logging, and image storage with simulated industrial automation, bridging computer vision output directly into machine control signals.
+
+</details>
+
+<details>
+<summary><b>📦 Supplier Connect — Enterprise Procurement & Supplier Management Platform</b></summary>
+<br/>
+
+Production-ready Android application enabling suppliers to manage Purchase Orders, ASN, shipments, and buyer communication from a centralized platform.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | React Native, Expo, TypeScript, REST APIs, JWT Auth |
+| **Scale** | Multi-module enterprise platform (PO Management, Communication Hub, AI Assistant) |
+| **Performance** | Real-time backend synchronization |
+| **Security** | JWT-authenticated secure REST APIs |
+| **Impact** | Improved procurement workflow efficiency and supplier response time by 40% |
+| **Repository** | [View on GitHub](https://github.com/Prajwal6300) |
+
+Includes an AI-powered assistant that proactively sends automated reminders for pending tasks, delivery commitments, and shipment updates.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**System / Software Engineer — AI & Automation**
+**Hari Om Techserve, Associate with Zanvar Group**
+`April 2026 – Present`
+
+Designing and deploying AI-powered industrial automation solutions, integrating computer vision and LLM-adjacent workflows with enterprise ERP and PLC systems for real-time manufacturing intelligence.
+
+- Designed and developed 6–8+ REST API endpoints integrating AI/vision models with ERP and PLC systems across 4 production lines/sites
+- Built Python-based automation and model-inference pipelines processing 80–100 requests/records per minute, cutting manual verification effort by ~60% and production defects by 40%
+- Owned end-to-end delivery of backend integrations — design, implementation, testing, deployment, and monitoring — reducing integration turnaround time by 40–50%
+- Collaborated cross-functionally with hardware, ML, and QA teams in a 2-week Agile/Scrum sprint cadence
+
+`Python` `OpenCV` `YOLO` `REST APIs` `ONNX` `ERP/PLC Integration` `Agile`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎯 Workflow Efficiency | Improved supplier response time & procurement workflow efficiency by 40% (Supplier Connect) |
+| ⚡ Inference Optimization | Reduced model inference time by 85% using ONNX optimization |
+| 🔍 Retrieval Accuracy | Achieved 90% improvement in RAG response relevance over baseline keyword search |
+| 🏭 Production Reliability | Improved industrial automation system uptime/reliability by 93% |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**NVIDIA**
+
+![NVIDIA](https://img.shields.io/badge/Generative%20AI-NVIDIA-6D28D9?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Anthropic**
+
+![Anthropic](https://img.shields.io/badge/Model%20Context%20Protocol%3A%20Advanced%20Topics-Anthropic-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20with%20the%20Anthropic%20API-Anthropic-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Cloud & Web Development**
+
+![Cloud ML](https://img.shields.io/badge/Cloud%20Machine%20Learning-Certified-8B5CF6?style=for-the-badge&logo=cloudsmith&logoColor=white)
+![Great Learning](https://img.shields.io/badge/Full%20Stack%20Web%20Development-Great%20Learning-A78BFA?style=for-the-badge&logo=coursera&logoColor=white)
+![AICTE](https://img.shields.io/badge/Android%20Developer%20Virtual%20Internship-AICTE%20Edu--Skills-9333EA?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prajwal6300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal6300&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal6300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prajwal6300&theme=discord&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal6300&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Prajwal6300/Prajwal6300/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced RAG architectures & agentic AI workflows
+  - System design at scale for AI-backed backends
+building:
+  - Production LLM applications with grounded retrieval
+  - Scalable REST APIs for AI/ML model serving
+exploring:
+  - Multi-agent orchestration with MCP (Model Context Protocol)
+  - Cloud-native deployment of ML inference pipelines
+open_to:
+  - Generative AI Engineer roles
+  - Software Development Engineer (Backend) roles
+  - Collaborative open-source AI projects
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-prajwalyadav3954%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalyadav3954@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prajwal--yadav63-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-yadav63/)
+[![GitHub](https://img.shields.io/badge/GitHub-Prajwal6300-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal6300)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Turning foundational ML concepts into reliable, production-grade AI systems — one pipeline at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
