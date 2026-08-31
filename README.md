@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Prajwal%20Mansing%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%7C%20ML%20%7C%20Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
